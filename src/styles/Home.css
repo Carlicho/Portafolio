@@ -1,0 +1,12 @@
+.home-container {
+    text-align: center;
+    min-Height: 100vh;
+    background-color: #625d7c;
+    
+}
+
+.tech-png img {
+    width: 7rem;
+    display: flex;
+    justify-content: center;
+}

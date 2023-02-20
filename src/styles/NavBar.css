@@ -1,0 +1,36 @@
+.NavBar-container{
+    position: sticky;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 999;
+    color:red;
+    background-color: #3b42a0;
+
+}
+
+.NavBar{
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-decoration: none;
+    padding: 1rem;
+    margin: 0.5 rem;
+     
+}
+
+
+
+a{
+    color:#dfdfe8;
+    text-decoration: none;
+    padding: 3rem;
+    
+
+
+}
+    .nav-container{
+        background-color: #3b42a0;
+    }
+
